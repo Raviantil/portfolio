@@ -12,7 +12,7 @@ body{
 }
 .navbar{
     background-color:#0b1225;
-    position:fixed;
+    position:relative;
     z-index:5;
     padding: 0vh 10vh 0vh 10vh;
     width: 100%;
