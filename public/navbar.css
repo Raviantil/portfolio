@@ -23,7 +23,9 @@ body{
     list-style: none;
     box-shadow: 0 0 20px rgba(0,0,0,0.8);
 }
-
+.icons{
+    margin-top: 25vh;
+}
 .icons a {
     
     position: relative;
