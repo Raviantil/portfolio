@@ -21,7 +21,7 @@ body{
     background: var(--second-color);
 }
 .wrapper{
-    padding-top:250px;
+    
     position:relative;
     width: 100%;
     height: auto;
